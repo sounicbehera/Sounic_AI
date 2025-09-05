@@ -1,5 +1,6 @@
-SounicAI - A Personal AI Chat Assistant
- 
+<!-- This is an image banner. It's a great way to make a big, custom title. -->
+
+A personal AI chat assistant built from scratch with a modern UI, a secure serverless backend, and powered by the high-speed Groq API. This project was built as a hands-on learning experience to understand the full lifecycle of a modern web application, from frontend design to backend deployment.
 
 Check out the live demo: https://sounicai.netlify.app/ (<- Replace with your actual Netlify link)
 
